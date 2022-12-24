@@ -1,0 +1,12 @@
+Pretrained model is a CNN/neural network architecture which anyone else has made and trained on different dataset but it is so good that it can be utilised in my problem.
+
+Why use Pretrained model?
+=>1)when we use CNN model then we work on some image based data.deep learnong is data hungry.For classification problem i need a lot of labeled data.labeling is a problem.
+    manually labelling is tedious.
+   2)Training process on big data takes time.
+   
+   so we can use a pretrained model.
+   
+ImageNET Dataset:-
+Visual database of images.
+
